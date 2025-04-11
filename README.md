@@ -18,6 +18,7 @@ An Arduino-based indoor gas detection system designed to monitor air quality usi
 ## 📂 File Structure
 - `gas_detector.ino`: Main Arduino sketch
 - `README.md`: Project documentation
-- `Images`: Circuit and Refernce Pictures 
+- `Images`: Circuit and Reference Pictures 
+
 ## 👨‍💻 Developed by
 Srikar Mukka | Passionate about combining technology and safety | 2025
